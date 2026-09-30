@@ -1,0 +1,6 @@
+{
+  "name": "Lakamba Group - Ethiopian Multi-Sector Enterprise",
+  "description": "Official digital portal of Lakamba Group (ለኻምባ ግሩፕ), an Ethiopian multi-sector investment conglomerate established in 1962 E.C. Led by Kahsay Abraha's heritage and Milkiyas Kahsay's next-generation executive leadership across construction, mining, agriculture, industry, hospitality, and logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
